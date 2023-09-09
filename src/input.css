@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Gantari:ital,wght@0,100;0,300;1,100&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,4 +11,10 @@
 }
 .carter{
     font-family: Carter One, sans-serif;
+}
+.abel{
+    font-family: 'Abel', sans-serif;
+}
+.gantari{
+    font-family: 'Gantari', sans-serif;
 }
